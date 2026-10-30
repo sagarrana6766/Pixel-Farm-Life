@@ -1,0 +1,6 @@
+{
+  "name": "Whispering Pines - Cozy Pixel Farm & Life Sim",
+  "description": "A relaxing multiplayer pixel life simulation where you can farm crops, fish in serene waters, decorate your home, design custom pixel skins, and invite friends over LAN to build together with a calming lo-fi soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
